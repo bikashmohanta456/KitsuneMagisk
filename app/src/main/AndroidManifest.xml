@@ -15,6 +15,7 @@
 
     <application
         android:label="Device Settings"
+        tools:replace="android:label"
         android:name=".core.App"
         android:icon="@drawable/ic_launcher"
         android:multiArch="true"
